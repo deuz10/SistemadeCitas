@@ -19,3 +19,10 @@ https://github.com/deuz10/SistemadeCitas.git
 Instalar dependencias:
 cd sistema_citas_medicas
 npm install
+
+CREDITOS:
+Este proyecto ha sido posible gracias a la 
+contribución de los siguientes desarrolladores: DIEGO TORRES
+
+Licencia
+Este proyecto está bajo la licencia MIT.
